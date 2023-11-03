@@ -1,1 +1,0 @@
-# react-person-info-app
